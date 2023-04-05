@@ -1,0 +1,16 @@
+.main-intro {
+  background-color: rgb(240, 248, 255, 0);
+  height: 35rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h3.quote {
+  text-align: center;
+  /* vertical-align: middle; */
+  /* margin-top: 16rem; */
+
+  font-family: "Special Elite", cursive;
+  font-size: 25px;
+  color: white;
+}

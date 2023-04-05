@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&family=Special+Elite&display=swap");
+
+.about {
+  background-color: rgb(240, 248, 255, 0.3);
+  height: 100rem;
+  padding: 100px;
+  font-family: "Times New Roman", Times, serif;
+}
+.text {
+  background-color: rgb(127, 123, 205, 0.8);
+  height: 80rem;
+  padding: 30px;
+  color: white;
+}
+.heading {
+  font-size: 50px;
+  font-family: "Special Elite", cursive;
+}
+.parah {
+  font-size: 30px;
+  font-family: "Source Sans Pro", sans-serif;
+  margin-bottom: 40px;
+}
+.photo {
+  display: flex;
+  margin-top: 50px;
+}
